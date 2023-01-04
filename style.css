@@ -15,6 +15,10 @@ h1 {
   color: blanchedalmond;
 }
 
+.buffer {
+  height: 10rem;
+}
+
 hr {
   margin: 20px auto;
   color: #F05F44;
